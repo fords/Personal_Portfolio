@@ -22,8 +22,7 @@
         "David Miller (http://davidmiller.io/)"
     ],
     "repository": {
-        "type": "git",
-
+        "type": "git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.2.0",
